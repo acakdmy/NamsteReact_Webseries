@@ -1,3 +1,5 @@
+// Write simple program using JavaScript
+
 // const heading = document.createElement("h1");
 
 // heading.innerHTML = "I am Hading from JavaScript";
@@ -7,6 +9,7 @@
 // root.appendChild(heading)
 
 
+// Write a simple program using React CDN 
 
 const heading1 = React.createElement("div",{id:"parent"},[
     React.createElement("h1",{},"I am h1 tag"),
