@@ -1,0 +1,31 @@
+{
+  "name": "react_webseries",
+  "version": "1.0.0",
+  "description": "This is Namaste React Webseries course",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acakdmy/NamsteReact_Webseries.git"
+  },
+  "keywords": [],
+  "author": "Pravin Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acakdmy/NamsteReact_Webseries/issues"
+  },
+  "homepage": "https://github.com/acakdmy/NamsteReact_Webseries#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
